@@ -1,5 +1,5 @@
 # valiutu-kursai
-This console program downloads and shows exchange rates in CSV format.
+This java console program downloads and shows exchange rates in CSV format.
 
 How to run program:
 1. Download or clone project
